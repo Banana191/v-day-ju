@@ -1,11 +1,11 @@
 const gifStages = [
-    "https://tenor.com/view/happy-cat-gif-10804346947536782797",    // 0 normal
-    "https://tenor.com/view/shocked-surprised-gasp-what-cat-shock-gif-635629308990545194",  // 1 confused
-    "https://tenor.com/view/kitty-cute-cats-kitten-pussy-cat-gif-16103005",             // 2 pleading
-    "https://tenor.com/view/cat-gif-12756433236776117962",             // 3 sad
-    "https://tenor.com/view/need-you-cat-cat-meme-i-need-it-need-that-gif-4542497429169947550",       // 4 sadder
-    "https://tenor.com/view/need-you-cat-cat-meme-i-need-it-need-that-gif-4542497429169947550",             // 5 devastated
-    "https://tenor.com/view/rain-raining-winter-rainy-day-rainy-gif-17307471363181880117",               // 6 very devastated
+    "https://media1.tenor.com/m/lfDATg4Bhc0AAAAd/happy-cat.gif",    // 0 normal
+    "https://media1.tenor.com/m/CNI1fSM1XSoAAAAd/shocked-surprised.gif",  // 1 confused
+    "https://media1.tenor.com/m/BIojD-ZTFBEAAAAd/kitty-cute.gif",             // 2 pleading
+    "https://media1.tenor.com/m/sQf0cT8G5soAAAAd/cat.gif",             // 3 sad
+    "https://media1.tenor.com/m/PwoxWDrMw54AAAAd/need-you-cat.gif",       // 4 sadder
+    "https://media1.tenor.com/m/ufPsZFFomo4AAAAd/crying-cat-sad-cat.gif",             // 5 devastated
+    "https://media1.tenor.com/m/8DB9gYKzozUAAAAd/rain-raining.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
 ]
 
